@@ -1,4 +1,4 @@
-# Derived from http://econometricsbysimulation.shinyapps.io/OLS-App/
+# Derived from http://econometricsbysimulation.shinyapps.io/OLS-App/ 
 
 # Load packages ----------------------------------------------------------------
 library(shiny)
